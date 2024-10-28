@@ -18,4 +18,5 @@ The toolbox produces interactive visualisations of topics using pyLDAvis.
   <img src="Visualisation.png" width="700" >
 </p>
 
+Thank you to Gensim: https://github.com/piskvorky/gensim and pyLDAvis: https://github.com/bmabey/pyLDAvis for implementations of topic modelling and visualisation tools.
 
