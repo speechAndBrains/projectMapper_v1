@@ -13,7 +13,7 @@ The GUI interface is written in Tkinter and allows a range of searching and topi
 The toolbox produces interactive visualisations of topics using pyLDAvis for solutions to Latent Dirichlet Allocation and Hierachical Dirichlet Process using GenSim implementations.
 
 <p align="center">
-  <img src="Visualisation.png" width="500" >
+  <img src="Visualisation.png" width="700" >
 </p>
 
 
