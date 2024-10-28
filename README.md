@@ -5,7 +5,7 @@ This is a repository for a GUI based applications for topic modelling and text s
 The GUI interface is written in Tkinter and allows a range of searching and topic modelling approaches that include Latent Dirichlet Allocation using a Bayesian Optimisation search and Hierchical Dirichlet Process.
 
 <p align="center">
-  <img src="GUI_overview.png" width="200" >
+  <img src="GUI_overview.png" width="300" >
 </p>
 
 
