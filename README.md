@@ -4,4 +4,6 @@ This is a repository for a GUI based applications for topic modelling and text s
 
 The GUI interface looks like the image below and allows a range of searching and topic modelling approaches that include Latent Dirichlet Allocation using a Bayesian Optimisation search and Hierchical Dirichlet Process.
 
-![screenshot](GUI_overview.png)
+<p align="center">
+  <img src="GUI_overview.png" width="350" >
+</p>
